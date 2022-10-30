@@ -2,7 +2,7 @@
 import os
 
 
-def fileRename(bozo):
+def fileRename(SMILE):
 
     
     count = 0
