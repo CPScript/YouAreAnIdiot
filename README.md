@@ -1,4 +1,3 @@
-![Screenshot 2022-10-28 1 43 26 PM](https://user-images.githubusercontent.com/83523587/199275008-d1048126-2b5d-47f3-8971-537a92a1f771.png)
 # Smile :)
 #### What it does
 This script teatches you how to smile is one of the friendlest ways, It will make you giggle and smile but somethimes it makes people made and might not wrk right... causing it to mess up and crash you computer (an accedent)
@@ -38,3 +37,4 @@ Questions | Answers
 here is the link to run code  |  https://replit.com/@CPScript/Smile?v=1
 
 # I hope you know what your doing, Have fun <3 and SMILE :)
+![Screenshot 2022-10-28 1 43 26 PM](https://user-images.githubusercontent.com/83523587/199275008-d1048126-2b5d-47f3-8971-537a92a1f771.png)
