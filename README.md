@@ -1,14 +1,14 @@
 # Smile :)
-####What it does
+#### What it does
 This script teatches you how to smile is one of the friendlest ways, It will make you giggle and smile but somethimes it makes people made and might not wrk right... causing it to mess up and crash you computer (an accedent)
 
-##Caution!
+## Caution!
 
 
 ### Questions
 Questions | Answers
 --------- | ---------
-[Why was this made?]I made this program because one of my friends told me that they knew more about computer malware (YouAreAIdiot virus) so i made my own version
+[Why was this made?] | I made this program because one of my friends told me that they knew more about computer malware (YouAreAIdiot virus) so i made my own version
 [Am I safe?]YES! | you are perficly fine. the IP puller only shows you your IP, no one else. (just to scare you <3)
 [Is my PC Safe?]YES! | this is one of the friendlest computer programs i have made.
 [Malware?]No! | this script is not a malware, it will rename your files but it wont destroy your pc, after the computer crashes, everything goes back to normal.
