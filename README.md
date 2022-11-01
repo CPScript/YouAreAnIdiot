@@ -16,7 +16,7 @@ Questions | Answers
 [ADware?]  No! | I dont even know how to make one of those, I will in the futur tho (safe and harmful versions)
 [Spyware?]  A little bit! | The only thing that it does is it Pulls your IP, it doesn't show anythone else this exept you <3
 [What if my PC breaks] | If your pc Breaks, I am very sorry... I wont be able to replace anything, It would be on you for running this program.
-[Is there a harmful Vursion]  YES! Its called https://YouAreAIdiot.cc exept i didn't make it and wont be responsible for any damage
+[Is there a harmful Virsion] | YES! Its called https://YouAreAIdiot.cc exept i didn't make it and wont be responsible for any damage
 
 
 ## Pros
