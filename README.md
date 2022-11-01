@@ -20,12 +20,21 @@ Questions | Answers
 
 
 ## Pros
-#### It has none and wont fix / help anything
+#### It will help you learn how to smile :D
 
 
 
 ## Cons
 #### This code might destroy your PC, im not responsible for anything that you do with this... Its your fault for running the program <3
+#### Might cause sezire
+#### Might make you dizzy
+#### Might light your pc on fire
+#### Might attack you... IDK
+#### Might lock your files
+#### Might delete you files
+#### Might kill you dog
+#### Might make your pc commit suiside
+#### Might make you depressed
 
 # ----------------
 
