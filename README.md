@@ -25,7 +25,7 @@ Questions | Answers
 
 
 ## Cons
-#### This code might destroy your PC, im not responsible for anything that you do with this... Its your fault for running the program <3
+### This code might destroy your PC, im not responsible for anything that you do with this... Its your fault for running the program <3
 #### Might cause sezire
 #### Might make you dizzy
 #### Might light your pc on fire
