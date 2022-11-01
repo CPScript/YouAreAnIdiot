@@ -20,16 +20,14 @@ Questions | Answers
 
 
 ## Pros
---- | ---
 #### It has none and wont fix / help anything
 
 
 
 ## Cons
---- | --- 
 #### This code might destroy your PC, im not responsible for anything that you do with this... Its your fault for running the program <3
 
-
+#----------------
 
 # Where do i Run this at?
 #### You can run this code in "repl.it"
