@@ -18,18 +18,24 @@ Questions | Answers
 [What if my PC breaks] | If your pc Breaks, I am very sorry... I wont be able to replace anything, It would be on you for running this program.
 [Is there a harmful Vursion]  YES! Its called https://YouAreAIdiot.cc exept i didn't make it and wont be responsible for any damage
 
-### Pros
+
+## Pros
 --- | ---
 #### It has none and wont fix / help anything
 
 
-### Cons
+
+## Cons
 --- | --- 
 #### This code might destroy your PC, im not responsible for anything that you do with this... Its your fault for running the program <3
 
 
-### Where do i Run this at?
+
+# Where do i Run this at?
 #### You can run this code in "repl.it"
+
+
+
 here is the link to run code  |  https://replit.com/@CPScript/Smile?v=1
 
 # I hope you know what your doing, Have fun <3 and SMILE :)
