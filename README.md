@@ -1,6 +1,6 @@
 # Smile :)
 #### What it does
-This script teatches you how to smile is one of the friendlest ways, It will make you giggle and smile but somethimes it makes people made and might not wrk right... causing it to mess up and crash you computer (an accedent)
+This script teaches you how to smile is one of the friendlest ways, It will make you giggle and smile but somethimes it makes people made and might not wrk right... causing it to mess up and crash you computer (an accedent)
 
 ## Caution!
 
