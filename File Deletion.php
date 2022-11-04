@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-   <p>Ight Deleing your files</p>
+   <p>File deletion has started...</p>
    <p>Please wait...</p>
    <?php
 // PHP program to delete all
@@ -22,8 +22,6 @@ foreach($files as $file) {
         unlink($file); 
 }
 ?>
-   sleep(10)
-   <p>DONE</p>
-   sleep(2)
+
    
-   <a href="Index.php" target="_blank"><button>Go back?</button></a>
+   <a href="https://smile.oxsmilexd.repl.co" target="_blank"><button>Go back?</button></a>
