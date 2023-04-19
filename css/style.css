@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8vw;
+    size: 8vw;
+
+    animation: flashing 1s infinite step-end;
+}
+
+@keyframes flashing {
+    0% {
+        background-color: black;
+        color: white;
+    }
+
+    50% {
+        background-color: white;
+        -webkit-filter: invert(1);
+        filter: invert(1);
+    }
+}
